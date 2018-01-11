@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 10 19:30:05 2018
 
-@author: Hari Shayam
+@author: Prathiksha Hegde
 """
 
 a = int(input("Enter a number\n"))
